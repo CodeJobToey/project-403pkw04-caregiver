@@ -45,7 +45,6 @@ class MyMapPageState extends State<MyHomePage> {
   late LocationData currentLocation;
 
   final LatLng _center = const LatLng(13.928912169164503, 100.57660708828934);
-  final LatLng zasd = const LatLng(13.1243214, 100.57660708828934);
   final double _zoom = 16.0;
 
   @override
